@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "917854077873",
+    "firebase_url": "https://chester-2-default-rtdb.firebaseio.com",
+    "project_id": "chester-2",
+    "storage_bucket": "chester-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917854077873:android:9baba79d0a866812cb7390",
+        "android_client_info": {
+          "package_name": "com.eve.chester2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7QL0bd5JNUYUggnzUiXsmX22Zag3mOf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
